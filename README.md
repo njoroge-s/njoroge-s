@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm serah
+
+I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
+
+
 
 <!--
 **njoroge-s/njoroge-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
