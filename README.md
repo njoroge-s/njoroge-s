@@ -13,4 +13,4 @@ I'm a software engineer student at Alx Africa. I enjoy reading books 📚 and so
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njoroge-s&show_icons=true&theme=radical)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=njoroge-s&theme=blue-green)
+<img align = "left" alt "coding" width = "400" ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=njoroge-s&theme=blue-green)>
