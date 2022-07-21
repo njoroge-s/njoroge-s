@@ -11,5 +11,4 @@ I'm a  civil & structural engineer and a full stack software developer in the ma
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=njoroge-s&show_icons=true&theme=radical)
-</p = right>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=njoroge-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
