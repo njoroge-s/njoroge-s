@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm serah
 
-I'm a software engineer student at Alx Africa. I enjoy reading books 📚 and solving problems using computer science 💻💻
+I'm a  civil & structural engineer and a full stack software developer in the maaking😊. I enjoy reading books 📚 and solving problems using computer science 💻💻
 
-<img align = "left" alt = "Coding" width = "300" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif">
- 
- 
- 
-- 🌱 I’m currently learning Javascript
+#### Talking about personal stuff
+- 🖋 I'm currebtly a student at ALX Africa
+- 🌱 I’m currently learning python
+- 🤔 I'm looking for help with Data Structures and Algorithms😥
+- 📧 Ask me about anything. I'm happy to help
 - ⚡ Fun fact: Brain is forever a nerd
 
 
