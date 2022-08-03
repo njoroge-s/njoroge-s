@@ -3,7 +3,7 @@
 I'm a  civil & structural engineer and a full stack software developer in the making😊. I enjoy reading books 📚 and  believe that real-world problems can be solved with technology 💻 and dependable leadership.
 
 #### Talking about personal stuff
-- 🖋 I'm currebtly a student at ALX Africa
+- 🖋 I'm currently a student at ALX Africa
 - 🌱 I’m currently learning python
 - 🤔 I'm looking for help with Data Structures and Algorithms😥
 - 📧 Ask me about anything. I'm happy to help @[twitter](https://twitter.com/Snjoroge1) @[email](https://gmail.com/sarahnjoroge2015@gmail.com)
