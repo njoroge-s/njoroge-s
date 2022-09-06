@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm serah
 
-I'm a  civil & structural engineer and a full stack software developer in the making😊. I enjoy reading books 📚 and  believe that real-world problems can be solved with technology 💻 and dependable leadership.
+I'm a full stack software developer in the making😊. I enjoy reading books 📚 and  believe that real-world problems can be solved with technology 💻 and dependable leadership.
 
 #### Talking about personal stuff
 - 🖋 I'm currently a student at ALX Africa
