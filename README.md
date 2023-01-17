@@ -1,4 +1,4 @@
-### Hi there 👋, I'm serah
+### Hi there 👋, I'm Serah
 
 I'm a full stack software developer in the making😊. I enjoy reading books 📚 and  believe that real-world problems can be solved with technology 💻 and dependable leadership.
 
